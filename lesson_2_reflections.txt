@@ -1,0 +1,3 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
