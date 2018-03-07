@@ -9,3 +9,15 @@ Por que você acha que alguns sistemas de controle de versão, como o Git, permi
 Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
 
 Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+
+Como os diagramas ajudam a visualizar a estrutura de branches?
+
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+
+Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
