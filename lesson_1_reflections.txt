@@ -21,3 +21,6 @@ Qual é o resultado da mesclagem de dois branches? Por que o representamos no di
 Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
 
 Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
+
+Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+
