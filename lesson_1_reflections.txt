@@ -24,3 +24,5 @@ Por que você prefere efetuar pull de alterações manualmente do que deixar o G
 
 Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
 
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+
